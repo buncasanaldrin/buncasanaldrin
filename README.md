@@ -40,6 +40,11 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&logoColor=00A3E0)&nbsp;
 
+### 🌟 Notable Projects
+
+- **[Wrapd](https://wrapd.ai):** An aggregator product that allows users to apply coupon codes for discounts on partnered brands.
+
+- **[Shakey's Pizza Philippines](https://www.shakeyspizza.ph):** A pizza chain restaurant website where users can order pizza and track their orders.
 
 ### 🎮 Leisure Activities
 
