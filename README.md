@@ -35,10 +35,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-05122A?style=flat&logo=github-actions)&nbsp;
 
 #### Testing
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
-![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&logoColor=00A3E0)&nbsp;
 
 
 ### 🎮 Leisure Activities
