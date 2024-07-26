@@ -29,10 +29,11 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&color=blue)&nbsp;
 ![TDD](https://img.shields.io/badge/-TDD-05122A?style=flat&color=blue)&nbsp;
 
-#### Deployment & CI/CD
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+### Deployment, CI/CD, & Hosting
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-05122A?style=flat&logo=github-actions)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 #### Testing
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
