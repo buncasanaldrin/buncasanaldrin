@@ -41,6 +41,10 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&logoColor=00A3E0)&nbsp;
 
+#### Error Monitoring
+![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=sentry)&nbsp;
+![Airbrake](https://img.shields.io/badge/-Airbrake-05122A?style=flat&logo=airbrake)&nbsp;
+
 ### 🌟 Notable Projects
 
 - **[Wrapd](https://wrapd.ai):** An aggregator product that allows users to apply coupon codes for discounts on partnered brands.
