@@ -12,6 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Ant Design](https://img.shields.io/badge/-AntDesign-05122A?style=flat&color=blue)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)&nbsp;
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -46,6 +47,7 @@
 ![Airbrake](https://img.shields.io/badge/-Airbrake-05122A?style=flat&logo=airbrake)&nbsp;
 
 ### 🌟 Notable Projects
+- **[Zoomo](https://www.ridezoomo.com):** A global e-bike subscription and sales platform, providing reliable electric bikes with flexible plans and full maintenance support.
 
 - **[Wrapd](https://wrapd.ai):** An aggregator product that allows users to apply coupon codes for discounts on partnered brands.
 
