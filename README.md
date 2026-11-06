@@ -4,7 +4,6 @@ Frontend-focused engineer from Manila. I like building the parts of apps people 
 
 - 🛵 Right now I'm building booking and fleet tools at [Zoomo](https://www.ridezoomo.com)
 - 🧪 Playing with React 19, Next.js, and AI features in everyday UIs
-- 🧰 Tinkering with Go on the side, plus far too much time tuning my split keyboard
 
 ### Things I reach for
 
