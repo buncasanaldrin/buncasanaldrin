@@ -27,8 +27,9 @@ React, Next.js and TypeScript every day. Stripe, Auth0, BigQuery and Cloud Run w
 | 📝 **Editor** | Neovim, plus Zed |
 | 🌿 **Git** | LazyGit and the GitHub CLI |
 | 🐚 **Shell** | zsh + Oh My Zsh + Starship |
-| 🧰 **Daily apps** | Zen, Hammerspoon, Obsidian, Docker, Claude Code |
+| 🔧 **CLI tools** | fzf, zoxide, eza, bat, ripgrep, fd |
+| 🧰 **Daily apps** | Helium, Hammerspoon, Obsidian, Docker, Claude Code |
 
 ### When I'm not coding
 
-🎮 Magic Chess · 📺 Anime · 🐕 Walks with Chase, my husky (he's on [my site](https://ab-codes.com) too)
+🎮 Magic Chess · 🏸 Badminton · 📺 Anime · 🐕 Walks with Chase, my husky (he's on [my site](https://ab-codes.com) too)
